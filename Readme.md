@@ -4,13 +4,12 @@
 
 # Chayan Das
 
-**Assistant System Engineer – Trainee**
-Tata Consultancy Services Limited
+
 
 </td>
 <td align="right" valign="top">
 
-📧 [daschayan267@gmail.com](mailto:daschayan267@gmail.com)
+
 🐙 [Nikk-123](https://github.com/Nikk-123)
 💼 [Chayan Das](https://www.linkedin.com/in/chayan-das-a863aa25a)
 🌐 [chayan.live](https://chayan.live)
@@ -19,23 +18,7 @@ Tata Consultancy Services Limited
 </tr>
 </table>
 
-## Education
----
 
-<table width="100%">
-<tr>
-<td><b>Bachelor of Technology in Computer Science and Engineering</b><br/><sub><i>Adamas University, Kolkata, West Bengal, India</i></sub></td>
-<td align="right"><sub><i>2022 – 2026</i></sub><br/><sub>CGPA: 8.85</sub></td>
-</tr>
-<tr>
-<td><b>Class XII (Higher Secondary)</b><br/><sub><i>WBCHSE, Calcutta Airport English High School</i></sub></td>
-<td align="right"><sub><i>2022</i></sub><br/><sub>Percentage: 80%</sub></td>
-</tr>
-<tr>
-<td><b>Class X (Secondary)</b><br/><sub><i>WBBSE, Calcutta Airport English High School</i></sub></td>
-<td align="right"><sub><i>2020</i></sub><br/><sub>Percentage: 83%</sub></td>
-</tr>
-</table>
 
 ## Skills
 ---
