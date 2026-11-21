@@ -1,176 +1,130 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Chayan%20Das&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Computer%20Vision%20%C2%B7%20Machine%20Learning%20%C2%B7%20Full%20Stack&descSize=18&descAlignY=60&animation=fadeIn" alt="Chayan Das" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1200&color=F75C7E&center=true&vCenter=true&width=620&height=40&lines=Software+Developer;Machine+Learning+Enthusiast;Computer+Vision+Practitioner;Full+Stack+Developer" alt="Typing animation: Software Developer, Machine Learning Enthusiast, Computer Vision Practitioner, Full Stack Developer" />
-</a>
-
-<br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-chayan.live-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](https://chayan.live)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chayan_Das-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chayan-das-a863aa25a/)
-[![GitHub](https://img.shields.io/badge/GitHub-Nikk--123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikk-123)
-
-<sub>My portfolio is a working Windows desktop. Double-click the icons at <a href="https://chayan.live">chayan.live</a> 🖥️</sub>
-
-</div>
-
-<br/>
-
-## 👋 About me
-
-<table>
+<table width="100%">
 <tr>
-<td width="62%" valign="top">
+<td valign="top">
 
-```ts
-const chayan = {
-  education:      "B.Tech, Computer Science @ Adamas University",
-  specialisation: ["Computer Vision", "Full Stack Development"],
-  askMeAbout:     ["Python", "Computer Vision", "Backend logic"],
-  currently:      "Building ML-powered apps that ship",
-  openTo:         ["Collaborations", "Internships", "Freelance"],
-};
-```
+# Chayan Das
+
+**Assistant System Engineer – Trainee**
+Tata Consultancy Services Limited
 
 </td>
-<td width="38%" align="center" valign="middle">
+<td align="right" valign="top">
 
-<img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+📧 [daschayan267@gmail.com](mailto:daschayan267@gmail.com)
+🐙 [Nikk-123](https://github.com/Nikk-123)
+💼 [Chayan Das](https://www.linkedin.com/in/chayan-das-a863aa25a)
+🌐 [chayan.live](https://chayan.live)
 
 </td>
 </tr>
 </table>
 
-<br/>
+## Education
+---
 
-## 🛠️ Tech stack
-
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="170"><b>Languages &<br/>frameworks</b></td>
-<td>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,cpp,c,js,dart,php,flask,nodejs,flutter,html,css&theme=light&perline=11" />
-  <img alt="Python, C++, C, JavaScript, Dart, PHP, Flask, Node.js, Flutter, HTML, CSS" src="https://skillicons.dev/icons?i=python,cpp,c,js,dart,php,flask,nodejs,flutter,html,css&theme=dark&perline=11" />
-</picture>
-</td>
+<td><b>Bachelor of Technology in Computer Science and Engineering</b><br/><sub><i>Adamas University, Kolkata, West Bengal, India</i></sub></td>
+<td align="right"><sub><i>2022 – 2026</i></sub><br/><sub>CGPA: 8.85</sub></td>
 </tr>
 <tr>
-<td align="center"><b>ML / CV</b></td>
-<td>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=light&perline=11" />
-  <img alt="TensorFlow, PyTorch, OpenCV" src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=11" />
-</picture>
-</td>
+<td><b>Class XII (Higher Secondary)</b><br/><sub><i>WBCHSE, Calcutta Airport English High School</i></sub></td>
+<td align="right"><sub><i>2022</i></sub><br/><sub>Percentage: 80%</sub></td>
 </tr>
 <tr>
-<td align="center"><b>Databases &<br/>cloud</b></td>
-<td>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,docker,aws,gcp,azure&theme=light&perline=11" />
-  <img alt="MongoDB, MySQL, Docker, AWS, Google Cloud, Azure" src="https://skillicons.dev/icons?i=mongodb,mysql,docker,aws,gcp,azure&theme=dark&perline=11" />
-</picture>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Tools</b></td>
-<td>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,postman,vscode,jira&theme=light&perline=11" />
-  <img alt="Git, Postman, VS Code, Jira" src="https://skillicons.dev/icons?i=git,postman,vscode,jira&theme=dark&perline=11" />
-</picture>
-</td>
+<td><b>Class X (Secondary)</b><br/><sub><i>WBBSE, Calcutta Airport English High School</i></sub></td>
+<td align="right"><sub><i>2020</i></sub><br/><sub>Percentage: 83%</sub></td>
 </tr>
 </table>
 
-</div>
+## Skills
+---
 
-<br/>
+- **Programming:** Python, Java, C, C++, JavaScript, Dart, PHP
+- **Backend Development:** Flask, REST API, Node.js
+- **Databases:** MySQL, MongoDB
+- **Tools & Platforms:** Git, GitHub, Postman, Docker, VS Code
+- **Cloud Computing:** AWS (EC2, S3)
+- **Machine Learning:** Supervised & Unsupervised Machine Learning, Computer Vision, LLM
+- **Soft Skills:** Problem Solving, Communication, Teamwork
 
-## 🌟 Featured projects
+<p>
+<img alt="Tech stack" src="https://skillicons.dev/icons?i=python,java,flask,mysql,aws,git,postman,tensorflow,pytorch,opencv&theme=light&perline=10" />
+</p>
 
-<table>
+## Experience
+---
+
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-### 🔍 Low-Light Object Detection
-Real-time object detection pipeline built for dark and low-visibility scenes.
-
-`Python` · `OpenCV` · `PyTorch` · `YOLOv8`
-
-[![Code](https://img.shields.io/badge/View_code-181717?style=flat-square&logo=github)](https://github.com/Nikk-123)
-
-</td>
-<td width="50%" valign="top">
-
-### 💧 Quantum Watermarking
-Quantum-inspired digital image watermarking using CCNOT gates, simulated in Qiskit.
-
-`Python` · `Qiskit` · `NumPy` · `scikit-image`
-
-[![Code](https://img.shields.io/badge/View_code-181717?style=flat-square&logo=github)](https://github.com/Nikk-123)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎵 Groovo
-Desktop music streaming app with its own standalone authentication service.
-
-`Flask` · `pywebview` · `Python` · `Render`
-
-[![Code](https://img.shields.io/badge/View_code-181717?style=flat-square&logo=github)](https://github.com/Nikk-123)
-
-</td>
-<td width="50%" valign="top">
-
-### ♟️ N Queens Visualizer
-Step-by-step visualiser comparing different algorithms for the N Queens problem.
-
-`HTML` · `CSS` · `JavaScript`
-
-[![Code](https://img.shields.io/badge/View_code-181717?style=flat-square&logo=github)](https://github.com/Nikk-123)
-
-</td>
+<td><b>Assistant System Engineer – Trainee</b><br/><sub><i>Tata Consultancy Services Limited</i></sub></td>
+<td align="right"><sub><i>June 2026 – Present</i></sub><br/><sub>On-site</sub></td>
 </tr>
 </table>
 
-<div align="center">
-<sub>More on the <a href="https://chayan.live">portfolio</a> 🚀 always building, always shipping</sub>
-</div>
+- Completed the **Initial Learning Program (ILP)** training in **Artificial Intelligence and Machine Learning (AI/ML)**.
+
+## Projects
+---
+
+<table width="100%">
+<tr>
+<td><b>Customer Churn Prediction Dashboard</b><br/><sub><i>Live ML-powered Flask dashboard for real-time customer churn prediction.</i></sub></td>
+<td align="right"><sub><a href="https://churn-prediction-cd6g.onrender.com/">Live demo</a></sub></td>
+</tr>
+</table>
+
+- Trained and evaluated a **classification model** using **scikit-learn** on the Kaggle Customer Churn dataset.
+- **Tech Stack:** Python, Flask, scikit-learn, Pandas, NumPy, Matplotlib.
+
+<table width="100%">
+<tr>
+<td><b>Low-Light Object Detection</b><br/><sub><i>Real-time object detection pipeline for dark and low-visibility scenes.</i></sub></td>
+<td align="right"><sub><a href="https://github.com/Nikk-123">Code</a></sub></td>
+</tr>
+</table>
+
+- **Tech Stack:** Python, OpenCV, PyTorch, YOLOv8.
+
+<table width="100%">
+<tr>
+<td><b>Quantum Watermarking</b><br/><sub><i>Quantum-inspired digital image watermarking using CCNOT gates, simulated in Qiskit.</i></sub></td>
+<td align="right"><sub><a href="https://github.com/Nikk-123">Code</a></sub></td>
+</tr>
+</table>
+
+- **Tech Stack:** Python, Qiskit, NumPy, scikit-image.
+
+<table width="100%">
+<tr>
+<td><b>Groovo</b><br/><sub><i>Desktop music streaming app with its own standalone authentication service.</i></sub></td>
+<td align="right"><sub><a href="https://github.com/Nikk-123">Code</a></sub></td>
+</tr>
+</table>
+
+- **Tech Stack:** Python, Flask, pywebview, Render.
+
+<table width="100%">
+<tr>
+<td><b>N Queens Visualizer</b><br/><sub><i>Step-by-step visualiser comparing different algorithms for the N Queens problem.</i></sub></td>
+<td align="right"><sub><a href="https://github.com/Nikk-123">Code</a></sub></td>
+</tr>
+</table>
+
+- **Tech Stack:** HTML, CSS, JavaScript.
+
+## Certifications
+---
+
+<table width="100%">
+<tr>
+<td><b>The Joy of Computing Using Python</b><br/><sub><i>NPTEL, IIT Madras</i></sub></td>
+<td align="right"><sub><i>Jul – Oct 2024</i></sub></td>
+</tr>
+</table>
+
+- **Credential ID:** [NPTEL24CS113S75230033703988756](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL24CS113S75230033703988756)
 
 <br/>
 
-## 🎮 Contribution graph: Space Shooter edition
-
-<div align="center">
-<img src="assets/space-shooter.gif" alt="My GitHub contribution graph as a retro space shooter" width="700" />
-</div>
-
-<br/>
-
-## 💭 Developer wisdom
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random developer quote" />
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🤝 Open to collaborate
-
-*Always excited to work on projects at the intersection of ML and real-world applications.*
-
-[![Say hello](https://img.shields.io/badge/Let's_build_something_amazing-F75C7E?style=for-the-badge&logo=rocket&logoColor=white)](https://www.linkedin.com/in/chayan-das-a863aa25a/)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" alt="" />
-
-</div>
+<sub>Open to collaborations, internships and freelance work. Reach me on [LinkedIn](https://www.linkedin.com/in/chayan-das-a863aa25a) or by [email](mailto:daschayan267@gmail.com).</sub>
