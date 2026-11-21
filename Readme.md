@@ -1,154 +1,176 @@
 <div align="center">
 
-<!-- Waving Banner Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&fontSize=0&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Chayan%20Das&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Computer%20Vision%20%C2%B7%20Machine%20Learning%20%C2%B7%20Full%20Stack&descSize=18&descAlignY=60&animation=fadeIn" alt="Chayan Das" />
 
-<h1 align="center">Hi there, I'm Chayan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-
-<!-- Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Software+Developer;Machine+Learning+Enthusiast;Computer+Vision+Practitioner;Full+Stack+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1200&color=F75C7E&center=true&vCenter=true&width=620&height=40&lines=Software+Developer;Machine+Learning+Enthusiast;Computer+Vision+Practitioner;Full+Stack+Developer" alt="Typing animation: Software Developer, Machine Learning Enthusiast, Computer Vision Practitioner, Full Stack Developer" />
 </a>
 
-<p>
-  <em>Computer Science Student • ML Practitioner • Full Stack Developer</em>
-</p>
+<br/><br/>
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-chayan.live-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](https://chayan.live)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chayan_Das-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chayan-das-a863aa25a/)
+[![GitHub](https://img.shields.io/badge/GitHub-Nikk--123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikk-123)
 
-<!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chayan.live)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chayan-das-a863aa25a/)
-
-<br/>
-
-<!-- <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="Profile Views" /> -->
+<sub>My portfolio is a working Windows desktop. Double-click the icons at <a href="https://chayan.live">chayan.live</a> 🖥️</sub>
 
 </div>
 
----
+<br/>
 
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-
-🎓 **Education:** B.Tech in Computer Science @ Adamas University
-💼 **Specialization:** Computer Vision + Full Stack Development  
-💬 **Ask me about:** Python, Computer Vision, and Backend Logic  
-
-<br clear="right"/>
-
----
-
-## 🛠️ Languages and Tools
-
-<div align="center">
-
-### Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,dart,php,flask,nodejs,flutter,html,css&theme=dark&perline=6" />
-</p>
-
-### ML / CV Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=6" />
-</p>
-
-### Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,aws,gcp,azure&theme=dark&perline=6" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,postman,vscode,jira&theme=dark&perline=8" />
-</p>
-
-</div>
-
----
-
-
-## 🌟 Featured Projects
+## 👋 About me
 
 <table>
 <tr>
-<td width="50%">
+<td width="62%" valign="top">
 
-### 🔍 Low-Light Object Detection
-Real-time object detection pipeline optimized for dark/low-visibility environments
-
-**Tech:** Python, OpenCV, PyTorch, YOLOv8
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
-
-</td>
-<td width="50%">
-
-### 💧 Quantum Watermarking
-Quantum-inspired digital image watermarking using CCNOT gates via Qiskit
-
-**Tech:** Python, Qiskit, NumPy, scikit-image
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+```ts
+const chayan = {
+  education:      "B.Tech, Computer Science @ Adamas University",
+  specialisation: ["Computer Vision", "Full Stack Development"],
+  askMeAbout:     ["Python", "Computer Vision", "Backend logic"],
+  currently:      "Building ML-powered apps that ship",
+  openTo:         ["Collaborations", "Internships", "Freelance"],
+};
+```
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="38%" align="center" valign="middle">
 
-### 🎵 Groovo
-Desktop music streaming app with standalone authentication service
-
-**Tech:** Flask, pywebview, Python, Render
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
-
-</td>
-<td width="50%">
-
-### 🚀 More coming soon...
-Always building, always shipping
+<img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 🎮 GitHub Game: Space Shooter Edition
-
-My contribution graph turned into an epic retro shooter! 🚀
+## 🛠️ Tech stack
 
 <div align="center">
-<img src="assets/space-shooter.gif" alt="GitHub Contributions as Space Shooter Game" width="600"/>
+
+<table>
+<tr>
+<td align="center" width="170"><b>Languages &<br/>frameworks</b></td>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,cpp,c,js,dart,php,flask,nodejs,flutter,html,css&theme=light&perline=11" />
+  <img alt="Python, C++, C, JavaScript, Dart, PHP, Flask, Node.js, Flutter, HTML, CSS" src="https://skillicons.dev/icons?i=python,cpp,c,js,dart,php,flask,nodejs,flutter,html,css&theme=dark&perline=11" />
+</picture>
+</td>
+</tr>
+<tr>
+<td align="center"><b>ML / CV</b></td>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=light&perline=11" />
+  <img alt="TensorFlow, PyTorch, OpenCV" src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=11" />
+</picture>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Databases &<br/>cloud</b></td>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,docker,aws,gcp,azure&theme=light&perline=11" />
+  <img alt="MongoDB, MySQL, Docker, AWS, Google Cloud, Azure" src="https://skillicons.dev/icons?i=mongodb,mysql,docker,aws,gcp,azure&theme=dark&perline=11" />
+</picture>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,postman,vscode,jira&theme=light&perline=11" />
+  <img alt="Git, Postman, VS Code, Jira" src="https://skillicons.dev/icons?i=git,postman,vscode,jira&theme=dark&perline=11" />
+</picture>
+</td>
+</tr>
+</table>
+
 </div>
-
----
-
-## 💭 Developer Wisdom
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Open to Collaborate
-
-*Always excited to work on innovative projects — especially at the intersection of ML and real-world applications!*
 
 <br/>
 
-**Let's build something amazing together** 🚀
+## 🌟 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 Low-Light Object Detection
+Real-time object detection pipeline built for dark and low-visibility scenes.
+
+`Python` · `OpenCV` · `PyTorch` · `YOLOv8`
+
+[![Code](https://img.shields.io/badge/View_code-181717?style=flat-square&logo=github)](https://github.com/Nikk-123)
+
+</td>
+<td width="50%" valign="top">
+
+### 💧 Quantum Watermarking
+Quantum-inspired digital image watermarking using CCNOT gates, simulated in Qiskit.
+
+`Python` · `Qiskit` · `NumPy` · `scikit-image`
+
+[![Code](https://img.shields.io/badge/View_code-181717?style=flat-square&logo=github)](https://github.com/Nikk-123)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎵 Groovo
+Desktop music streaming app with its own standalone authentication service.
+
+`Flask` · `pywebview` · `Python` · `Render`
+
+[![Code](https://img.shields.io/badge/View_code-181717?style=flat-square&logo=github)](https://github.com/Nikk-123)
+
+</td>
+<td width="50%" valign="top">
+
+### ♟️ N Queens Visualizer
+Step-by-step visualiser comparing different algorithms for the N Queens problem.
+
+`HTML` · `CSS` · `JavaScript`
+
+[![Code](https://img.shields.io/badge/View_code-181717?style=flat-square&logo=github)](https://github.com/Nikk-123)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>More on the <a href="https://chayan.live">portfolio</a> 🚀 always building, always shipping</sub>
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+## 🎮 Contribution graph: Space Shooter edition
+
+<div align="center">
+<img src="assets/space-shooter.gif" alt="My GitHub contribution graph as a retro space shooter" width="700" />
+</div>
+
+<br/>
+
+## 💭 Developer wisdom
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random developer quote" />
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🤝 Open to collaborate
+
+*Always excited to work on projects at the intersection of ML and real-world applications.*
+
+[![Say hello](https://img.shields.io/badge/Let's_build_something_amazing-F75C7E?style=for-the-badge&logo=rocket&logoColor=white)](https://www.linkedin.com/in/chayan-das-a863aa25a/)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" alt="" />
 
 </div>
